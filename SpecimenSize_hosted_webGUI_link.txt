@@ -1,0 +1,5 @@
+Name: Your Full Name
+Matric Number: XXXXXXX
+Formula Used: Actual Size = Image Size / Magnification
+Live URL: (fill in after deployment)
+GitHub Repository: https://github.com/YourUsername/SpecimenSize_Project_YourName_MatricNo
